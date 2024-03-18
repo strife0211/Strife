@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209073759380",
+    "project_id": "strife-86649",
+    "storage_bucket": "strife-86649.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209073759380:android:15ba8b97952884dea68081",
+        "android_client_info": {
+          "package_name": "com.example.strife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209073759380-4u7ig165bnnoehfmh3vsbg5llv7dtrng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5_Bhirz2OXGeDUfySHKc63coO1kMW9ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209073759380-4u7ig165bnnoehfmh3vsbg5llv7dtrng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
